@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import AdminDashboard from '../pages/admin/Dashboard';
-import AdminUsers from '../pages/admin/Users';
-import HomePage from '../pages/HomePage'; // Example regular page
+import AdminDashboard from '../Pages/admin/Dashboard';
+import AdminUsers from '../Pages/admin/Users';
+//import HomePage from '../pages/HomePage'; // Example regular page
 
 function AppRoutes() {
   return (
